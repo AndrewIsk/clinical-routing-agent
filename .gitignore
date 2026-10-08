@@ -1,0 +1,9 @@
+specialty-classifier/
+*.safetensors
+*.bin
+*.pt
+
+.ipynb_checkpoints/
+__pycache__/
+
+.env
